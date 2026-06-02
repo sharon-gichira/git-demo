@@ -1,1 +1,1 @@
-# GIT DEMO PROJECT
+# Connecting sql to python

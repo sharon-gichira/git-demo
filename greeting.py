@@ -1,5 +1,0 @@
-
-Greetings = 'Good Morning'
-
-
-
