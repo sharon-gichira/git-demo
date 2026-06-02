@@ -1,1 +1,1 @@
-# Connecting sql to python
+# Connecting python to postgres
